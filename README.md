@@ -12,13 +12,13 @@ https://user-images.githubusercontent.com/74647679/227427775-021aea1d-99e8-47c3-
 
 ## Key bidings
 
-`esc` Resets the selected block
+**esc** Resets the selected block
 
-`1`, `2`, and `3` Selects the respective block on the blockholder.
+**1**, **2**, and **3** Selects the respective block on the blockholder.
 
-`&uarr;`, `&darr;`, `&larr;`, and `&harr;` Moves the selected block on the block.
+**&uarr;**, **&darr;**, **&larr;**, and **&rarr;** Moves the selected block on the block.
 
-`␣` Places the block on the board.
+**␣** (space) Places the block on the board.
 
 ## Future features
 
