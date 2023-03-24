@@ -6,7 +6,9 @@ This is a toy implementation of 1010!, one of my favourite iPhone game!
 
 ## Demo
 
-https://user-images.githubusercontent.com/74647679/227426963-f6b719ff-13f4-40bc-8289-3ce1f0db1e88.mov
+https://user-images.githubusercontent.com/74647679/227427775-021aea1d-99e8-47c3-b006-0b0b7554b637.mov
+
+
 
 ## Key bidings
 
